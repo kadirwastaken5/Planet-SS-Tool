@@ -1,2 +1,2 @@
 # Planet-SS-Tool
-Bir süreliğine PShell komutu bakımdadır! Releases kısmından indirebilirsiniz. 
+Invoke-Expression (Invoke-RestMethod -Uri "https://raw.githubusercontent.com/kadirwastaken5/Planet-SS-Tool/main/run.ps1")
